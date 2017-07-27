@@ -1,5 +1,7 @@
 ## Gauge with Guice
 
+[![Build Status](https://travis-ci.org/getgauge-examples/gauge-guice.svg?branch=master)](https://travis-ci.org/getgauge-examples/gauge-guice)
+
 This is a sample Gauge project demonstrating the use of Spring IOC framework with [Gauge](http://getgauge.io).
 
 ## Usage
