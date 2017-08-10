@@ -1,8 +1,7 @@
+import com.google.inject.Inject;
 import com.thoughtworks.gauge.Step;
 
-import javax.inject.Inject;
-
-import static junit.framework.TestCase.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class PaymentService {
     private DebitCardProcessor processor;
