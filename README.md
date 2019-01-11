@@ -13,4 +13,4 @@ This is a sample Gauge project demonstrating the use of [Guice dependency inject
 
 This executes the Gauge specs. Reports can be found under `reports` directory after execution.
 
-Refer [Gauge documentation](http://getgauge.io/documentation/user/current/) for more.
+Refer [Gauge documentation](https://docs.gauge.org/latest/index.html) for more.
