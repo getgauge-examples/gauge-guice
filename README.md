@@ -6,7 +6,7 @@ This is a sample Gauge project demonstrating the use of [Guice dependency inject
 
 ## Usage
 
-* [Install Gauge](http://getgauge.io/get-started/index.html)
+* [Install Gauge](https://docs.gauge.org/getting_started/installing-gauge.html)
 * Install Gauge java plugin `gauge install java`
 * Clone this repository
 * Run `gauge run specs`
